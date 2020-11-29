@@ -146,6 +146,9 @@
     <ClCompile Include="Hayat_task5.cpp" />
     <ClCompile Include="Hayat_Tasl6.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Relection.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

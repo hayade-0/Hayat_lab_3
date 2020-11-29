@@ -1,0 +1,17 @@
+1.What did you learn? What did you know already?
+
+All extercises in these lab were new to me. i have some idea apoint pointer and vector but the only programming course i took is in python.
+so it was new to me. i have learnt how to pass to function and change its value in that scope. and i also learnt that it is much easy to deal
+with the vector that with the array.
+
+2.What was difficult in the lab? How did you overcome it?
+
+there is much correlation with lab 3 so it was easy to connect, but i had struggle a bit on double pointer. however i reviewed the lecture and watch
+some youtube videos to overcome it.
+
+3.How can the lab be improved?
+i like the lab question, so no improvement feedback for now.
+
+4.Additionally, write an estimate how many hours you spent on this lab.
+
+Approxiametly 10 hours. however, i included the tile i spent to study the material.

@@ -144,6 +144,7 @@
     <ClCompile Include="Hayat_Task3.cpp" />
     <ClCompile Include="Hayat_task4.cpp" />
     <ClCompile Include="Hayat_task5.cpp" />
+    <ClCompile Include="Hayat_Tasl6.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
